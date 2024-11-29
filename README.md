@@ -1,5 +1,5 @@
 # Artist-Classification
-Artistic Style Classification with Neural Networks
+Artistic Style Classification with Transfer learning
 
 Can neural networks appreciate art? 🎨 In this project, we explore how well neural networks can develop an understanding of artistic styles. By working on this project, you'll gain insights into implementing **transfer learning** and **image data augmentation**, and analyze their impact on model performance.
 
